@@ -5,8 +5,8 @@
 **Term:** Fall 2025-2026  
 
 ## 👥 Group Members
-* **[İsim Soyisim 1]** (Student ID)
-* **[İsim Soyisim 2]** (Student ID)
+* **Ahmet Yusuf GENÇER** (22315326)
+* **Bilge ** (Student ID)
 * **[İsim Soyisim 3]** (Student ID)
 
 ---
@@ -50,4 +50,5 @@ The database consists of the following key tables:
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/YourUsername/Restaurant-DBMS-Project.git](https://github.com/YourUsername/Restaurant-DBMS-Project.git)
+
 cd Restaurant-DBMS-Project
